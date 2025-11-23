@@ -21,7 +21,7 @@ Dataset Link: [Medicinal Leaf data from Mendeley Data](https://md-datasets-cache
   3. Random Zoom - with height factor 0.2 and width factor 0.3.
 
 - Used Pre-Trained ResNet50-V2 as base model.
-
+--There is a requirements file. Download it and run the following command in the terminal: pip install -r requirements.txt
 &#x20;
 
 - Froze the layers of the base model.
