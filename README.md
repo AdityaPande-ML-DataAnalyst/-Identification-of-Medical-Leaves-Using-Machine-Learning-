@@ -82,4 +82,6 @@ Dataset Link: [Medicinal Leaf data from Mendeley Data](https://md-datasets-cache
 &#x20;
 
 \<img src="artifacts/roc-auc test.png">
+\<img src="<img width="1207" height="928" alt="Screenshot 2025-11-23 181332" src="https://github.com/user-attachments/assets/160e2a1c-292c-46d8-87ad-bc74b85e5876" />
+">
 
